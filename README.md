@@ -29,9 +29,3 @@ Compared to other adaptive schemes, our framework provides 1.94× to 5.63× over
   journal={2023 IEEE 16th International Conference on Cloud Computing (CLOUD)},
   year={2023},
   pages={319-329}}
-  
- - **_MLA_**: Tyagi, Sahil and Martin Swany. “GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training.” 2023 IEEE 16th International Conference on Cloud Computing (CLOUD) (2023): 319-329.
- 
- - **_APA_**: Tyagi, S., & Swany, M. (2023). GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training. 2023 IEEE 16th International Conference on Cloud Computing (CLOUD), 319-329.
- 
- - **_Chicago_**: Tyagi, Sahil and Martin Swany. “GraVAC: Adaptive Compression for Communication-Efficient Distributed DL Training.” 2023 IEEE 16th International Conference on Cloud Computing (CLOUD) (2023): 319-329.
