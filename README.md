@@ -12,7 +12,7 @@ Compared to other adaptive schemes, our framework provides 1.94× to 5.63× over
 
 **ACCESS LINKS**
 - [Link1](https://ieeexplore.ieee.org/document/10255012)
-- [Link2](https://sahiltyagi.academicwebsite.com/publications/21211-gravac-adaptive-compression-for-communication-efficient-distributed-dl-training)
+- [Link2](https://sahiltyagi4.github.io/files/gravac.pdf)
 
 **RUNNING**
 
