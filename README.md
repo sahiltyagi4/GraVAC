@@ -1,4 +1,4 @@
-# _GraVAC_: Adaptive Compression for Communication-Efficient Distributed DL Training
+# _GraVAC_: Adaptive Compression for Communication-Efficient Distributed ML
 
 **Implementation of adaptive compression and related work of _GraVAC_ presented at IEEE International Conference on Cloud Computing (CLOUD), 2023, Chicago, Illinois, USA.**
 
